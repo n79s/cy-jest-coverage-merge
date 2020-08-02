@@ -3,8 +3,8 @@
 ## Install
 
 ```bash
-git clone aaaaa
-cd aaaa
+git clone https://github.com/n79s/cy-jest-coverage-merge
+cd cy-jest-coverage-merge
 npm install -g
 
 # uninstall
